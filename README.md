@@ -85,4 +85,100 @@ A curated collection of links and resources for global climate policy, emissions
 - **Esri Press: Addressing Earth's Challenges: GIS for Earth Sciences**: [GIS for Earth Sciences](https://www.esri.com/en-us/esri-press/browse/addressing-earths-challenges)
 - **Katharine Hayhoe's Newsletter on Substack**: [Katharine Hayhoe's Newsletter](https://katharinehayhoe.substack.com/)
 - **Climate Central**: [Climate Central](https://www.climatecentral.org/)
-- **RealClimate Blog**: [RealClimate](http://www 
+- **RealClimate Blog**: [RealClimate](http://www
+
+---
+
+## **📊 Climate Data Repositories**
+
+- **NOAA National Centers for Environmental Information (NCEI)** Manages one of the world's largest archives of atmospheric, coastal, geophysical, and oceanic dat. citeturn0search24
+
+- **NASA Earth Observing System Data and Information System (EOSDIS)** Provides end-to-end capabilities for managing NASA's Earth science dat.
+
+- **European Space Agency (ESA) Climate Change Initiative (CCI)** Generates long-term global satellite datasets for key climate variable.
+
+- **Copernicus Climate Change Service (C3S)** Offers information about the past, present, and future climate in Europe and worldwid.
+
+- **Global Climate Observing System (GCOS)** Ensures that observations and information needed to address climate-related issues are obtained and made available to all potential user.
+
+- **World Bank Climate Data** Provides climate data and tools to support climate-resilient developmen.
+
+- **Our World in Data - CO₂ and Greenhouse Gas Emissions** Offers data and research on CO₂ and other greenhouse gas emission.
+
+- **Emissions Database for Global Atmospheric Research (EDGAR)** Provides global past and present-day anthropogenic emissions of greenhouse gases and air pollutant.
+
+- **Climate Watch** Offers data on national climate policies and actions, greenhouse gas emissions, and mor.
+
+- **Berkeley Earth** Provides comprehensive open-source data on global temperature change.
+
+- **Carbon Dioxide Information Analysis Center (CDIAC)** Offers data on atmospheric CO₂ concentrations and other greenhouse gase.
+
+- **Global Carbon Project** Provides data on global carbon emissions and their source.
+
+- **Hadley Centre for Climate Prediction and Research** Offers climate data and models from the UK Met Offic.
+
+- **Scripps CO₂ Program** Provides the longest continuous record of atmospheric CO₂ measurement.
+
+- **Carbon Tracker Initiative** Offers data and analysis on the impact of climate change on financial market.
+
+- **CDP (formerly Carbon Disclosure Project)** Provides environmental data disclosed by companies and citie.
+
+- **International Renewable Energy Agency (IRENA) Statistics** Offers data on renewable energy capacity and usage worldwid.
+
+- **United Nations Environment Programme (UNEP) Climate Data** Provides data and reports on global environmental issue.
+
+- **World Resources Institute (WRI) Climate Data** Offers data and analysis on global environmental and climate issue.
+
+- **Global Forest Watch** Provides data on global forest changes, including deforestation rate.
+
+- **Arctic Data Center** Offers data on Arctic environmental change.
+
+- **Antarctic Environmental Data Centre** Provides data on Antarctic environmental researc.
+
+- **PANGAEA Data Publisher** Offers data from earth and environmental science researc.
+
+- **NOAA Climate.gov** Provides timely and authoritative information about climat.
+
+- **USGS Climate and Land Use Change** Offers data on climate and land use change impact.
+
+- **National Snow and Ice Data Center (NSIDC)** Provides data on snow, ice, and climat.
+
+- **Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC)** Offers biogeochemical and ecological dat.
+
+- **Socioeconomic Data and Applications Center (SEDAC)** Integrates socioeconomic and earth science dat.
+
+- **Intergovernmental Panel on Climate Change (IPCC) Data Distribution Centre** Provides climate-related data to support IPCC assessment.
+
+- **World Meteorological Organization (WMO) Data** Offers global meteorological data and informatio.
+
+- **Global Ocean Observing System (GOOS)** Provides data on ocean conditions and healt.
+
+- **Global Terrestrial Observing System (GTOS)** Offers data on terrestrial ecosystems and land us.
+
+- **Global Atmosphere Watch (GAW)** Provides data on atmospheric composition and related physical parameter.
+
+- **Integrated Carbon Observation System (ICOS)** Offers data on greenhouse gas concentrations and fluxe.
+
+- **European Environment Agency (EEA) Climate Data** Provides data and indicators on Europe's environmen.
+
+- **Asia-Pacific Data Research Center (APDRC)** Offers climate data focused on the Asia-Pacific regio.
+
+- **Africa Climate Data** Provides climate data relevant to the African continen.
+
+- **South American Climate Data** Offers climate data for South Americ.
+
+- **Australian Bureau of Meteorology Climate Data** Provides climate data for Australi.
+
+- **Canadian Centre for Climate Services** Offers climate data and tools for Canad.
+
+- **Climate Data Canada** Provides climate data and information for Canad.
+
+- **Japan Meteorological Agency Climate Data** Offers climate data for Japa.
+
+- **India Meteorological Department Climate Data** Provides climate data for Indi.
+
+- **China Meteorological Administration Climate Data** Offers climate data for Chin.
+
+- **Russian Federal Service for Hydrometeorology and Environmental Monitoring** Provides climate data for Russi.
+
+- **Brazilian National Institute for Space Research (INPE) Climate Data** Offers climate data for Brazil. 
